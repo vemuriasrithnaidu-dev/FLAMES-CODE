@@ -8,9 +8,9 @@ This project is mainly created for learning string manipulation concepts in C an
 
 👨‍💻 Authors
 
-Charitesh
+Vemuri Asrith Naidu 
 
-Vemuri Asrith Naidu
+charitesh
 
 Department: Computer Science and Engineering
 Institute: PVP Siddhartha Institute of Technology
